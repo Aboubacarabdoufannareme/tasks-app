@@ -22,4 +22,4 @@ A simple PHP + MySQL task management application built for the E-Commerce Lab (L
 - `delete.php` — delete a task (Delete)
 
 ## Live Demo
-http://169.239.251.102:442/~fannareme.abdou/tasks-app/
+http://169.239.251.102:442/~fannareme.abdou/e-commerce/
